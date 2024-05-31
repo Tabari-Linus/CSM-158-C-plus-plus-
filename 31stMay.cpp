@@ -87,12 +87,7 @@ Netpay = Sal - Deduc
 
     cout << "Total deduction \t"<< " Netpay \t"<< " GrossPay "<<endl;
     cout <<totalDeduction<<"\t\t\t|"<< Netpay <<"\t\t|"<<GrossySalary<<endl;
-    cout <<totalDeduction<<"\t\t\t|"<< Netpay <<"\t\t|"<<GrossySalary<<endl;
-    cout <<totalDeduction<<"\t\t\t|"<< Netpay <<"\t\t|"<<GrossySalary<<endl;
-    cout <<totalDeduction<<"\t\t\t|"<< Netpay <<"\t\t|"<<GrossySalary<<endl;
-    cout <<totalDeduction<<"\t\t\t|"<< Netpay <<"\t\t|"<<GrossySalary<<endl;
-    cout <<totalDeduction<<"\t\t\t|"<< Netpay <<"\t\t|"<<GrossySalary<<endl;
-    cout <<totalDeduction<<"\t\t\t|"<< Netpay <<"\t\t|"<<GrossySalary<<endl;
+
     
     
 
