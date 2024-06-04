@@ -1,0 +1,27 @@
+switch (expression)
+{
+case (const-express):
+	statements
+	break;
+case (cnst-expression):
+	staatements
+	break;
+	.
+	.
+	.
+default:
+	statement
+}
+
+for(start, end, step){
+	statement
+}
+
+while(expression"change with control"){
+	statement
+	control 
+}
+
+do{
+	statement
+}while();
