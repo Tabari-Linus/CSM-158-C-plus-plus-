@@ -11,6 +11,7 @@ case (cnst-expression):
 	.
 default:
 	statement
+	break
 }
 
 for(start, end, step){
