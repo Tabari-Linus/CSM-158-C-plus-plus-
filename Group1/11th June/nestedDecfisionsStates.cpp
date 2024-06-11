@@ -9,7 +9,7 @@ int main(){
     cin>>shortcode;
 
     if(shortcode == "*170#"){
-        cout<<"1. Transfer Money\n2. Momo Pay & PayBill\n3. Airtime & Bundles\n4. Allow Cashout\n5. Financial Services\n6. My wallet"<<endl;
+        cout<<"1. Transfer Money"<<endl<<"2. Momo Pay & PayBill\n3. Airtime & Bundles\n4. Allow Cashout\n5. Financial Services\n6. My wallet"<<endl;
         cin>>option1;
         if (option1 == 1)
         {

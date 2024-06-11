@@ -26,3 +26,12 @@ while(expression"change with control"){
 do{
 	statement
 }while();
+
+
+
+multi dimensional arrays
+ages={1,1,2,3,2}
+ages[0];
+studetsages={{1,1,2,3,2},{1,1,2,3,2},{1,1,2,3,2},{1,1,2,3,2},{1,1,2,3,2}}
+studetsages[0][3];
+datatype arrayname[n][m];
