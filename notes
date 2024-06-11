@@ -29,9 +29,13 @@ do{
 
 
 
-multi dimensional arrays
-ages={1,1,2,3,2}
-ages[0];
-studetsages={{1,1,2,3,2},{1,1,2,3,2},{1,1,2,3,2},{1,1,2,3,2},{1,1,2,3,2}}
-studetsages[0][3];
+###### 
+datatype arrayname[n];
+datatype arrayname[]={1,2,3,4,5};
+arrayname[3];
+
+###### multi dimensional arrays
 datatype arrayname[n][m];
+datatype arrayname[5][5]={{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5}};
+arrayname[0][4];
+arrayname[1][2];
